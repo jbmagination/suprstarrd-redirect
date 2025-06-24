@@ -1,3 +1,4 @@
 ---
-redirect_to: https://suprstarrd.com
+location: https://suprstarrd.com
+layout: redirect
 ---
